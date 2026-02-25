@@ -39,9 +39,13 @@ I love exploring the ever-evolving world of technology, building seamless user e
 
 ## 🛠 Languages, Frameworks, and Tools  
 **Languages:** Java, C, C++, Python, SQL, JavaScript
+
 **Frontend:** HTML, CSS, JavaScript, React.js
+
 **Database:** Oracle
+
 **Version Control:** Git & GitHub
+
 **Cloud:** AWS
 
 ---
