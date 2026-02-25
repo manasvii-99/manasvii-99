@@ -17,10 +17,6 @@ I love exploring the ever-evolving world of technology, building seamless user e
 
 ---
 
-## 📚 Education  
-🎓 **[B.Tech in Computer Science & Engineering with Specialization in Internet of Things ]** **[Vellore Institute of Technology, Vellore]** Dedicated to mastering programming skills and exploring cutting-edge technologies. I thrive on collaborating with peers to create impactful projects that harness the power of tech.
-
-
 ## 🌐 Socials:
 <p align="center">
   <a href="mailto:manasvibharti999@gmail.com">
@@ -36,6 +32,11 @@ I love exploring the ever-evolving world of technology, building seamless user e
 
 ---
 
+## 📚 Education  
+🎓 **[B.Tech in Computer Science & Engineering with Specialization in Internet of Things ]** **[Vellore Institute of Technology, Vellore]** Dedicated to mastering programming skills and exploring cutting-edge technologies. I thrive on collaborating with peers to create impactful projects that harness the power of tech.
+
+---
+
 ## 🛠 Languages, Frameworks, and Tools  
 **Languages:** Java, C, C++, Python, SQL, JavaScript
 **Frontend:** HTML, CSS, JavaScript, React.js
@@ -44,7 +45,6 @@ I love exploring the ever-evolving world of technology, building seamless user e
 **Cloud:** AWS
 
 ---
-
 
 ## 💻 Tech Stack:
 <p align="center">
